@@ -1,4 +1,4 @@
-Here is a Chess gamne or at least the start of one
+Here is a Chess game or at least the start of one
 
 Babacar N.
 
